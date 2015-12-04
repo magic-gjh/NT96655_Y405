@@ -1,0 +1,4 @@
+In file included from f:/MTG_WORK/qizheng_yeshiyi/NT9665x_CarDV_FW_20150122_PW84__yeshiyi/DrvExt/DrvExt_src/ModelExt/CarDV_Dual_Tvp5150/IOCfg.c:29:
+../../../../Include/DrvExt/GSensor/GSensor.h:163: warning: function declaration isn't a prototype
+../../../../Include/DrvExt/GSensor/GSensor.h:164: warning: function declaration isn't a prototype
+f:/MTG_WORK/qizheng_yeshiyi/NT9665x_CarDV_FW_20150122_PW84__yeshiyi/DrvExt/DrvExt_src/ModelExt/CarDV_Dual_Tvp5150/DxInput_Key.c:237: warning: 'VolDet_GetKey2Level' defined but not used

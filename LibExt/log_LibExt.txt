@@ -1,0 +1,14 @@
+d:/PROJECT/Code/650_Code/FW/CarDV650_FW_Media2.0/LibExt/LibExt_src/DevCamCAL/IPL_IMX322LQJ_EVB_FF_CAL_ITEM/IPL_Cal_Ctrl_IMX322_EVB_FF.c: In function 'Prv_CtrlInit':
+d:/PROJECT/Code/650_Code/FW/CarDV650_FW_Media2.0/LibExt/LibExt_src/DevCamCAL/IPL_IMX322LQJ_EVB_FF_CAL_ITEM/IPL_Cal_Ctrl_IMX322_EVB_FF.c:396: warning: passing argument 3 of 'IPL_InitDisplayBuffer' from incompatible pointer type
+../../../../Include/Lib/DevCam/IPL_Display/ipl_display.h:104: note: expected 'struct IPL_YCC_IMG_INFO *' but argument is of type 'struct IPLC_BASEINFO **'
+d:/PROJECT/Code/650_Code/FW/CarDV650_FW_Media2.0/LibExt/LibExt_src/DevCamCAL/IPL_IMX322LQJ_EVB_FF_CAL_ITEM/IPL_Cal_Item_IMX322_EVB_FF.c: In function 'DP_Adjust_Dark':
+d:/PROJECT/Code/650_Code/FW/CarDV650_FW_Media2.0/LibExt/LibExt_src/DevCamCAL/IPL_IMX322LQJ_EVB_FF_CAL_ITEM/IPL_Cal_Item_IMX322_EVB_FF.c:1058: warning: passing argument 2 of 'FileSys_WriteFile' makes pointer from integer without a cast
+../../../../Include/Lib/DevStrg/FileAccess/filesystsk.h:1092: note: expected 'UINT8 *' but argument is of type 'UINT32'
+d:/PROJECT/Code/650_Code/FW/CarDV650_FW_Media2.0/LibExt/LibExt_src/DevCamCAL/IPL_IMX322LQJ_EVB_FF_CAL_ITEM/IPL_Cal_Item_IMX322_EVB_FF.c: In function 'DP_Adjust_Bright':
+d:/PROJECT/Code/650_Code/FW/CarDV650_FW_Media2.0/LibExt/LibExt_src/DevCamCAL/IPL_IMX322LQJ_EVB_FF_CAL_ITEM/IPL_Cal_Item_IMX322_EVB_FF.c:1366: warning: passing argument 2 of 'FileSys_WriteFile' makes pointer from integer without a cast
+../../../../Include/Lib/DevStrg/FileAccess/filesystsk.h:1092: note: expected 'UINT8 *' but argument is of type 'UINT32'
+d:/PROJECT/Code/650_Code/FW/CarDV650_FW_Media2.0/LibExt/LibExt_src/DevCamIPL/IPL_MN34110_CARDV_FF/IPL_Ctrl_MN34110_EVB_FF.c:212: warning: no previous prototype for 'IPL_SIESetDP_FCB'
+d:/PROJECT/Code/650_Code/FW/CarDV650_FW_Media2.0/LibExt/LibExt_src/DevCamIPL/IPL_MN34110_CARDV_FF/IPL_CtrlFW_MN34110_EVB_FF.c: In function 'IPL_SIEInitCBFlowC':
+d:/PROJECT/Code/650_Code/FW/CarDV650_FW_Media2.0/LibExt/LibExt_src/DevCamIPL/IPL_MN34110_CARDV_FF/IPL_CtrlFW_MN34110_EVB_FF.c:202: warning: implicit declaration of function 'IPL_SIESetDP_FCB'
+d:/PROJECT/Code/650_Code/FW/CarDV650_FW_Media2.0/LibExt/LibExt_src/DevCamIPL/IPL_MN34110_CARDV_FF/IPL_FlowCB_MN34110_EVB_FF.c:74: warning: 'IPL_FCB_FlashCfg_Main' defined but not used
+d:/PROJECT/Code/650_Code/FW/CarDV650_FW_Media2.0/LibExt/LibExt_src/DevCamIPL/IPL_MN34110_CARDV_FF/IPL_FlowCB_MN34110_EVB_FF.c:97: warning: 'IPL_FCB_MshutterConfig' defined but not used

@@ -1,0 +1,16 @@
+
+#----------------------------------------------------------------------
+# Set model here
+#----------------------------------------------------------------------
+#MODEL = CARDV
+#MODEL = CARDV_DUAL
+MODEL = CARDV_DUAL_TVP5150
+#MODEL = CARDV_DUAL_NOCABLE
+#MODEL = 5H2
+#MODEL = GS1000A
+#MODEL = P80
+#MODEL = EVB
+#MODEL = 655
+#MODEL = RS6
+#MODEL = SDVR2000
+#MODEL = DV658
